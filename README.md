@@ -11,7 +11,7 @@ Repository ini berisi catatan dan latihan saya dalam mempelajari Data Science.
 
 ## Progress
 
-- [x] Mean, Median, Modus
+- [ ] Mean, Median, Modus
 - [ ] Standar Deviasi
 - [ ] Data Visualization
 - [ ] Machine Learning Dasar
